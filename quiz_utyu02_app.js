@@ -1,52 +1,53 @@
 const quiz = [
     {
-        question: "南波六太が大学卒業後の就職先は？",
-        answers: ["", "", "デニール・ヤング", "ジェイソン・バトラー"],
-        correct: "ビンセント・ボールド"
-    },{
-        question: "宇宙兄弟の主人公南波六太の身長は？",
-        answers: ["171cm", "176cm", "181cm", "186cm"],
-        correct: "181cm"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "国際宇宙ステーションの略称は何？",
-        answers: ["ISS", "IIS", "CES", "CIS"],
-        correct: "ISS"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "ケンジの娘の名前は？",
-        answers: ["ふうか", "ゆい", "せりか", "ゆうか"],
-        correct: "ふうか"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "日々人がヒューストンで飼っているパグの名前は？",
-        answers: ["アポ", "アロ", "ポロ", "ポア"],
-        correct: "アポ"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "日々人がヒューストンで飼っているパグの大好物は何？",
-        answers: ["ハンバーガー", "ドックフード", "ホットドッグ", "チーズホットグ"],
-        correct: "ホットドッグ"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "宇宙飛行士選抜の3次試験(閉鎖環境試験)で、六太に出されたグリーンカードの内容は何？",
-        answers: ["時計を壊す", "トイレを詰まらせる", "備蓄された米を床にぶちまける", "1日2回叫ぶ"],
-        correct: "1日2回叫ぶ"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "宇宙飛行士選抜の3次試験(閉鎖環境試験)で、C班だったのは誰？",
-        answers: ["山本大輔", "山下剛", "山上弘之", "山田直希"],
-        correct: "山下剛"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "日々人がパニック障害克服のため訓練で行った場所はどこ？",
-        answers: ["日本", "ドイツ", "カナダ", "ロシア"],
-        correct: "ロシア"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     },{
-        question: "日々人がパニック障害克服の訓練先でデートをした女の子は名前は何？",
-        answers: ["オリガ・トルスタヤ", "エミーリア・トルスタヤ", "ソフィア・トルスタヤ", "マリア・トルスタヤ"],
-        correct: "オリガ・トルスタヤ"
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
+
+    },{
+        question: "",
+        answers: ["", "", "", ""],
+        correct: ""
 
     }
 ];
